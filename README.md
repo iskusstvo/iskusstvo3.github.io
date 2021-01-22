@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Блоки</title>
-    <meta charset="Windows-1251">
+<meta charset="UTF-8">
+<title>Заголовок страницы</title>
 </head>
-<body>
-<div>Первый блок текста</div>
-<div>Второй блок текста.</div>
-</body>
+  <body>
+    <h1>Это заголовок</h1>
+    <p>Это параграф.</p>
+  </body>
 </html>
